@@ -1,0 +1,41 @@
+.main{
+	width: 100%;
+	height: 1080px;
+	background: #1f2d3d;
+}
+.logo-container{
+	height: 60px;
+}
+.logo{
+    height: 50px;
+    width: auto;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.usename{
+	height: 60px;
+	line-height: 60px;
+	color: #bfcbd9;
+}
+.logout {
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    margin-left: 2px;
+    cursor: pointer;
+}
+/* 左侧菜单 */
+.left-menu{
+	height: 1020px;
+    background: #324057;
+    position: relative;
+    overflow-x: hidden;
+}
+.right-content{
+    height: 1020px;
+    background: #fff;
+    position: relative;
+    overflow-x: hidden;
+    border-radius: 2px;
+    box-shadow:inset 0 0 2px 2px #ccc;
+}
